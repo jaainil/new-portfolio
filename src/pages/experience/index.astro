@@ -1,0 +1,18 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Card from "@components/Card.astro";
+import { getCollection, type CollectionEntry } from "astro:content";
+import { EXPERIENCE } from "@consts";
+
+const allExperience: CollectionEntry<"experience">[] =
+  await getCollection("experience");
+---
+
+<Layout title={EXPERIENCE.TITLE} description={EXPERIENCE.DESCRIPTION}>
+  <section id="Experience" class="container mx-auto px-6 pt-18">
+    <h2 class="heading text-5xl md:text-9xl uppercase mr-4 md:mr-8 my-8">
+      experience
+    </h2>
+    {allExperience.map((exp) => <Card entry={exp} />)}
+  </section>
+</Layout>

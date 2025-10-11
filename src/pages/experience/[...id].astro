@@ -1,0 +1,93 @@
+---
+import { SITE } from "@consts";
+import Layout from "@layouts/Layout.astro";
+import { getCollection, render, type CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const allExperience: CollectionEntry<"experience">[] =
+    await getCollection("experience");
+
+  return allExperience.map((experience) => ({
+    params: { id: experience.id },
+    props: { experience },
+  }));
+}
+
+const { experience } = Astro.props;
+
+const { Content } = await render(experience);
+---
+
+<Layout title={experience.data.title} description={experience.data.description}>
+  <div class="container mx-auto space-y-8 pt-18 px-6">
+    <button
+      class="flex gap-2 items-center text-secondary hover:text-primary cursor-pointer pl-2 my-6"
+      title="back"
+      id="back-button"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="28"
+        height="28"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        class="lucide lucide-move-left-icon lucide-move-left"
+        ><path d="M6 8L2 12L6 16"></path><path d="M2 12H22"></path></svg
+      >
+      <span>Back</span>
+    </button>
+    <div
+      class="flex justify-between md:items-center pb-4 border-b border-dashed border-secondary gap-4 flex-col md:flex-row"
+    >
+      <div class="space-y-4">
+        <h1 class="heading text-3xl md:text-5xl uppercase">
+          {experience.data.title}
+        </h1>
+        <p>{experience.data.description}</p>
+        <div class="flex flex-col gap-2 text-secondary">
+          <p class="text-lg font-semibold">{experience.data.company}</p>
+          {experience.data.location && (
+            <p class="text-base">📍 {experience.data.location}</p>
+          )}
+          <p class="text-base">
+            {experience.data.startDate} - {experience.data.endDate || "Present"}
+          </p>
+        </div>
+      </div>
+
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a
+          href="/experience"
+          class="w-full sm:w-auto flex items-center justify-center bg-primary rounded-2xl py-3 px-6 sm:py-4 sm:px-10 cursor-pointer hover:bg-background hover:outline-1 hover:outline-dashed hover:outline-secondary hover:text-foreground transition"
+        >
+          All Experience
+        </a>
+      </div>
+    </div>
+
+    <div
+      class="w-full lg:h-[70vh] aspect-[610/400] overflow-hidden rounded-2xl"
+    >
+      <img
+        src={experience.data.image.url}
+        alt={experience.data.image.alt}
+        class="w-full h-full object-contain"
+      />
+    </div>
+    <article
+      class="px-3 flex-2 mx-auto border-b border-dashed border-secondary mb-18"
+    >
+      <Content />
+    </article>
+  </div>
+
+  <script is:inline>
+    document.getElementById("back-button").addEventListener("click", () => {
+      window.history.back();
+    });
+  </script>
+</Layout>

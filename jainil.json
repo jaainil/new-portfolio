@@ -1,0 +1,669 @@
+{
+  "basics": {
+    "name": "Jainil Prajapati",
+    "headline": "Full-Stack Developer | AI Enthusiast",
+    "email": "jainilprajapati9@gmail.com",
+    "phone": "+91 9725284302",
+    "location": "Anand, Gujarat, India",
+    "url": {
+      "label": "Portfolio",
+      "href": "https://jaainil.com/"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/clwlkfh7b0bgqtojz2itm0gc5/pictures/wtpe5ep6q61y0h1fkatnigk6.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 6,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Full-Stack Developer passionate about building <strong>scalable SaaS platforms</strong> and contributing to <strong>open-source ecosystems</strong>. Actively maintain templates at <strong>Dokploy</strong>, run <strong>Algogist</strong> (5K+ monthly readers), and moderate <strong>r/AI_India</strong> (13K+ members). Experienced in crafting <strong>AI-powered tools</strong>, delivering <strong>production-ready solutions</strong>, and driving <strong>community-led initiatives</strong>.</p>"
+    },
+    "awards": {
+      "name": "Achievements & Hackathons",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": false,
+      "id": "awards",
+      "items": [
+        {
+          "id": "wc5ezpup94fqzwrn9kodcihf",
+          "visible": true,
+          "title": "MECIA Hacks (2024)",
+          "awarder": "",
+          "date": "",
+          "summary": "<p>Finalist — MECIA Hacks (2024), built AI-powered blogging solution.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "r16onu2mbix22ydngbubktc9",
+          "visible": true,
+          "title": "Hack2Skill’s Snap Lens Hackathon",
+          "awarder": "",
+          "date": "",
+          "summary": "<p>Created Snapchat AR Lens during Hack2Skill’s Snap Lens Hackathon.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "xk3uhg5tccmhr3d3zuq4ppn9",
+          "visible": true,
+          "name": "MECIA Hacks – Hackathon Participant",
+          "issuer": "Sardar Vallabhbhai Patel Institute of Technology",
+          "date": "",
+          "summary": "<p>Participated in a national 24-hour hackathon solving real-world challenges using AI-powered web tools.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "xv902s7sqlm2k5bw511e8owg",
+          "visible": true,
+          "name": "End of Year Snap AR Lens Creation Hackathon, ",
+          "issuer": "Hack2skill",
+          "date": "",
+          "summary": "<p>Built an interactive Snapchat Lens using Snap AR Studio; explored 3D modeling and visual effects for AR content.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "hzvrqy3gg376hb03vamx6nbw",
+          "visible": true,
+          "name": "Web Development Bootcamp",
+          "issuer": "Web3Dev",
+          "date": "",
+          "summary": "<p>Completed hands-on bootcamp covering HTML, CSS, JavaScript, and Web3 fundamentals.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "p0r8wu6u9f87u1z0d2djeb9m",
+          "visible": true,
+          "name": "Responsive Web Design",
+          "issuer": "freeCodeCamp",
+          "date": "",
+          "summary": "<p>Mastered cross-device compatible layouts using HTML and CSS.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "viaiwmk845gkceuizeo7e4y7",
+          "visible": false,
+          "name": "CSS (Basic) Certificate",
+          "issuer": "Hackerrank",
+          "date": "August 2022",
+          "summary": "<p>It covers topics like exploring Cascading and Inheritance, exploring text styling fundamentals, understanding the use of layouts in CSS, understand the boxing of elements in CSS, among others.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "yvsw4wj96ukjx75fxb2r8my2",
+          "visible": false,
+          "name": "What is Graphic Design?",
+          "issuer": "LinkedIn",
+          "date": "October 2021",
+          "summary": "<p>In October 2021, I completed the \"What is Graphic Design?\" course on LinkedIn, where I gained a comprehensive understanding of the principles and practices of graphic design.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "em2gncosj292dw1s6u571frz",
+          "visible": false,
+          "name": "Creating Memorable Visual Presentations",
+          "issuer": "Visme",
+          "date": "06/2021 ",
+          "summary": "<p>I Learned About Presentation Making And Visuals In The Presentation and How To Make Your PPT Mode Visual Appealing And Attractive.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ey57srcxftpjnnnghjtzh8qz",
+          "visible": false,
+          "name": "The Fundamentals of Digital Marketing",
+          "issuer": "Google",
+          "date": "08/2019",
+          "summary": "<p>In This Course, I Learned About How Digital Marketing Works And How You Can Use Digital Marketing In Your Life.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "nwyy981t5vkat8ux3pdjzxdt",
+          "visible": false,
+          "name": "Business Manager",
+          "issuer": "Meta",
+          "date": "08/2021",
+          "summary": "<p>In This Course, I Learned About Business Manager And How You Manage Your Business Using Meta.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "od3mzkhmuzmru2sam7bw3jhl",
+          "visible": true,
+          "institution": "Sardar Vallabhbhai Patel Institute of Technology",
+          "studyType": "B.E Information Technology",
+          "area": "",
+          "score": "CGPA: 7.03",
+          "date": "2021 – 2025",
+          "summary": "<p><strong>Relevant Coursework:</strong> Blockchain, Artificial Intelligence, Web Development, Cyber Security, Wireless Communication</p><p><strong>Highlights:</strong> Participated in MECIA Hacks (2024), Snap AR Hackathon, Web3Dev Bootcamp.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "aea9zmzcyihl62b34erdr3px",
+          "visible": true,
+          "institution": "Saraswati Shishukunj School",
+          "studyType": "12th Grade - Science (Physics, Chemistry, Mathematics)",
+          "area": "",
+          "score": "75%",
+          "date": "03/2020 - 03/2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "zf996ocwgz7l8en3lle324v1",
+          "visible": true,
+          "company": "Aexawareinfotech Pvt. Ltd.",
+          "position": "DevOps Intern",
+          "location": "Vadodara",
+          "date": "September, 2025 - Present",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://aexaware.com"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Leadership & Community",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "l3b40wdqfec1ww4xgnwoh3fb",
+          "visible": true,
+          "organization": "r/AI_India",
+          "position": "Moderator",
+          "location": "",
+          "date": "Ongoing",
+          "summary": "<ul><li><p>Manage a <strong>10K+ member AI community</strong>, curating discussions on <strong>LLMs, AI startups, and Indian AI policies</strong>.</p></li><li><p>Organize <strong>model release threads</strong> and maintain a community resource hub for AI developers in India.</p></li><li><p>Foster open collaboration between <strong>AI researchers, builders, and enthusiasts</strong>.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.reddit.com/r/AI_India/"
+          }
+        },
+        {
+          "id": "jc1jrfcw4907a68t47rshx1j",
+          "visible": true,
+          "organization": "Algogist",
+          "position": "Founder",
+          "location": "",
+          "date": "",
+          "summary": "<ul><li><p>Built and manage <strong>Algogist</strong>, an AI-focused tech blog covering <strong>LLMs, open-source models, AI news, and tutorials</strong>.</p></li><li><p>Grew the platform to <strong>5K+ monthly readers</strong>, sharing insights on cutting-edge AI tools and developer workflows.</p></li><li><p>Published hands-on guides, deep dives, and prompt engineering techniques for AI enthusiasts and developers.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://algogist.com"
+          }
+        },
+        {
+          "id": "d3gblgx8ocf9cimgi329eg6t",
+          "visible": false,
+          "organization": "Dokploy",
+          "position": "Open-Source Contributor",
+          "location": "",
+          "date": "",
+          "summary": "<ul><li><p>Actively contribute to <strong>Dokploy’s templates repository</strong>, with <strong>10+ merged PRs</strong> improving automation, CI/CD, and template quality.</p></li><li><p>Built <strong>meta.json validation tooling</strong>, added <strong>internationalized blog templates</strong>, and optimized multi-database support for <strong>Gitea</strong> and other services.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": false,
+      "id": "languages",
+      "items": [
+        {
+          "id": "beofne85kvhz9gfozkhm63es",
+          "visible": true,
+          "name": "Gujarati",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "exea6afhva37jvw0tvm219y5",
+          "visible": true,
+          "name": "Hindi",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "xdd8nqy3bfw36vqzmrt6m63h",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "bvcy518uelhiwsoyrz2uinrk",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "LinkedIn",
+          "icon": "linkedin",
+          "url": {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jaainil/"
+          }
+        },
+        {
+          "id": "wnfqeqo80n5ulpbo9p838jux",
+          "visible": true,
+          "network": "GitHub",
+          "username": "GitHub",
+          "icon": "GitHub",
+          "url": {
+            "label": "",
+            "href": "https://github.com/jaainil"
+          }
+        },
+        {
+          "id": "zz261fq0vghz4smumo7pofao",
+          "visible": false,
+          "network": "Twitter/X",
+          "username": "enough_jainil",
+          "icon": "X",
+          "url": {
+            "label": "Twitter/X",
+            "href": "https://x.com/enough_jainil"
+          }
+        },
+        {
+          "id": "p1bszf5qzu8bi1x24u9zt8bu",
+          "visible": false,
+          "network": "Instagram",
+          "username": "enough.jainil",
+          "icon": "Instagram",
+          "url": {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/enough.jainil/"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "jejg0nlwv8t9nxyp8xklbvv8",
+          "visible": true,
+          "name": "Blog Maker (sass)",
+          "description": "Next.js, Prisma, Stripe, Radix UI, TailwindCSS, TypeScript",
+          "date": "",
+          "summary": "<ul><li><p>Built a SaaS blogging platform supporting multi-user subscriptions, authentication, and secure payments.</p></li><li><p>Engineered a scalable backend using Next.js API routes with Prisma ORM for efficient data handling.</p></li><li><p>Integrated <strong>Stripe</strong> to support recurring payments and one-time purchases with real-time billing flows.</p></li><li><p>Optimized performance for &lt;200ms page loads; improved accessibility using <strong>Radix UI</strong> components.</p></li><li><p>Deployed via <strong>Vercel</strong> with CI/CD, enabling seamless production updates.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://blog-maker.vercel.app/"
+          }
+        },
+        {
+          "id": "xqc81xn2g38cyb9szcq5fsfm",
+          "visible": true,
+          "name": "Indian AI Tracker",
+          "description": "React, Vite, Recharts, CMDK, TailwindCSS",
+          "date": "",
+          "summary": "<ul><li><p>Developed a dashboard indexing 150+ Indian AI startups, policies, and LLM projects.</p></li><li><p>Implemented <strong>dynamic search, tag filters</strong>, and visualizations using <strong>Recharts</strong> and <strong>CMDK</strong>.</p></li><li><p>Designed a fast-loading UI using <strong>Vite</strong> and <strong>Radix UI</strong>, with dark/light theme support.</p></li><li><p>Achieved &lt;1s response time and strong UX across mobile and desktop.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://india-ai-tracker.vercel.app"
+          }
+        },
+        {
+          "id": "hsw9kww015f6i96uuj9ij4vf",
+          "visible": true,
+          "name": "MemoryView AI Resources Hub",
+          "description": "Remix.js, Fuse.js, TailwindCSS, TypeScript",
+          "date": "",
+          "summary": "<ul><li><p>Curated 150+ AI/ML learning resources for developers, researchers, and students.</p></li><li><p>Integrated <strong>Fuse.js</strong> for advanced fuzzy search, enabling instant content discovery.</p></li><li><p>Used <strong>Remix SSR</strong> for improved SEO and faster initial load times.</p></li><li><p>Achieved a 60% improvement in search latency and boosted session time via UI/UX enhancements.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://remix-llm-resoures.vercel.app/"
+          }
+        },
+        {
+          "id": "x6h7zm4wx0nh9hjb7ryyoogh",
+          "visible": true,
+          "name": "Bhoogool - Search Engine",
+          "description": "React, RapidAPI, TailwindCSS",
+          "date": "",
+          "summary": "<ul><li><p>Created a lightweight web search engine using <strong>RapidAPI</strong> to fetch real-time results.</p></li><li><p>Managed state using <strong>React Context API</strong> and Hooks for fast render cycles.</p></li><li><p>Integrated third-party APIs to improve content relevance and response accuracy.</p></li><li><p>Delivered sub-second search performance with a mobile-first, responsive layout.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "t9qrc5nhidzikulkkix67p8k",
+          "visible": false,
+          "name": "Dokploy/templates",
+          "description": "Open Source Contributor",
+          "date": "",
+          "summary": "<ul><li><p><strong>10+ merged PRs</strong> improving Dokploy’s <strong>official templates repository</strong>.</p></li><li><p>Developed a <strong>meta.json automation suite</strong>: CLI tools for <strong>deduplication, schema validation</strong>, and <strong>CI/CD validation pipelines</strong>.</p></li><li><p>Added and maintained <strong>10+ production-ready templates</strong> like Habitica, Statping-NG, BookLore, Blinko, and more.</p></li><li><p><strong>Impact:</strong> Improved repo maintainability and enhanced template quality used by <strong>hundreds of self-hosters</strong>.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://github.com/Dokploy/templates/pulls?q=is%3Apr+author%3Ajaainil"
+          }
+        },
+        {
+          "id": "sl96io7io3hpju7gvefxalh7",
+          "visible": false,
+          "name": "Traceback - Movie Review Blogging",
+          "description": "Technologies: Astro.js, Redis, TMDB API, UnoCSS, TypeScript",
+          "date": "",
+          "summary": "<ul><li><p>Integrated the <strong>TMDB API</strong> with <strong>Redis caching</strong> for real-time access to movie metadata.</p></li><li><p>Implemented <strong>server-side rendering (SSR)</strong> and <strong>static site generation (SSG)</strong> for optimal performance and SEO.</p></li><li><p>Built an <strong>intuitive search system</strong> and automated <strong>OG image generation</strong> for better social media engagement.</p></li><li><p>Designed a clean and modern UI using <strong>UnoCSS</strong> for a seamless user experience.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ujki52n7ywmihf3o0f0okqez",
+          "visible": false,
+          "name": "Qr Code Maker",
+          "description": "Technologies: HTML, CSS, qrcode.js",
+          "date": "",
+          "summary": "<ul><li><p>Built a tool for generating customizable QR codes with a user-friendly interface.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://qr-code-jainil.netlify.app/"
+          }
+        },
+        {
+          "id": "r9dmek7xbnhmi77j8prif0ru",
+          "visible": false,
+          "name": "Linktree Clone",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>Recreated the Linktree interface using HTML and CSS, integrating Spotify widgets for seamless music playback directly from the webpage.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://jainillinks.netlify.app/"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "GitHub Contributions",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": [
+        {
+          "id": "xz07f7r42hjkkg5fotwvbzz2",
+          "visible": true,
+          "name": "Dokploy/templates — Open Source Contributor",
+          "publisher": "",
+          "date": "",
+          "summary": "<ul><li><p>Contributed <strong>10+ merged pull requests</strong> to Dokploy’s official templates repo, enhancing self-hosting workflows for developers.</p></li><li><p>Built a robust <code>meta.json</code><strong> automation suite</strong> for schema validation, versioning, and deployment consistency.</p></li><li><p>Integrated <strong>GitHub Actions</strong> for CI/CD testing pipelines, reducing human errors during template validation.</p></li><li><p>Added and maintained <strong>10+ production-ready deployment templates</strong> (e.g., Habitica, Statping-NG, BookLore) used by hundreds of users.</p></li><li><p>Collaborated with maintainers to review PRs, resolve merge conflicts, and improve developer experience.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://github.com/Dokploy/templates/pulls?q=is%3Apr+author%3Ajaainil"
+          }
+        }
+      ]
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "xcbp03dhk5p316uk87ivzx4u",
+          "visible": true,
+          "name": "Frontend",
+          "description": "React, Next.js, Remix.js, Vite, TailwindCSS, Radix UI, Angular",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "v8r1l2hcxo54rsdd9qj4lz7g",
+          "visible": true,
+          "name": "Backend",
+          "description": "Node.js, Prisma, REST APIs, Stripe Integration",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "l9pbeskge2fg16dn2qb87851",
+          "visible": true,
+          "name": "Databases",
+          "description": "MySQL, MongoDB",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "szjlz7dyvvm02tyjsd9c90qm",
+          "visible": true,
+          "name": "DevOps",
+          "description": "Docker, Nginx, Vercel, Proxmox, GitHub Actions ",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "jrwrhrn5wkkecsd3iar1zl02",
+          "visible": true,
+          "name": "Design Tools",
+          "description": "Photoshop, Illustrator, Figma, Canva",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "r6q8hbszmcglfspewr2vk7pk",
+          "visible": true,
+          "name": "Soft Skills",
+          "description": "Problem-Solving, Team Collaboration, Communication",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "tyh9kuzmmnigxzedvtugcvdf",
+          "visible": true,
+          "name": "AI/ML",
+          "description": "LangChain basics, AI-powered workflows, LLM integrations",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "mge6mu3mt7gvu324p17b8624",
+          "visible": false,
+          "name": "DevOps & Virtualization",
+          "description": "Docker, Proxmox (VE), Nginx Server Configuration",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "pfx900gmqnqdij979atm888e": {
+        "name": "Custom Section",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "pfx900gmqnqdij979atm888e",
+        "items": []
+      }
+    }
+  },
+  "metadata": {
+    "template": "kakuna",
+    "layout": [
+      [
+        [
+          "summary",
+          "profiles",
+          "skills",
+          "experience",
+          "projects",
+          "interests",
+          "references",
+          "custom.pfx900gmqnqdij979atm888e"
+        ],
+        [
+          "languages"
+        ]
+      ],
+      [
+        [
+          "education",
+          "publications",
+          "volunteer",
+          "certifications",
+          "awards"
+        ],
+        []
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 40,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#dc2626"
+    },
+    "typography": {
+      "font": {
+        "family": "Lato",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.25,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
