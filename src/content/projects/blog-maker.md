@@ -4,7 +4,7 @@ description: "Next.js, Prisma, Stripe, Radix UI, TailwindCSS, TypeScript - A sca
 liveUrl: https://blog-maker.vercel.app/
 githubUrl: https://github.com/jaainil
 image: {
-url: "/formsync.webp",
+url: "/blogmaker.png",
 alt:  "Blog Maker thumbnail"
 }
 ---

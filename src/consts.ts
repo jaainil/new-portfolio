@@ -2,7 +2,7 @@ export const SITE = {
   URL: "https://jaainil.com",
   TITLE: "Jainil Prajapati",
   DESCRIPTION:
-    "Full-Stack Developer passionate about building scalable SaaS platforms and contributing to open-source ecosystems.",
+    "Full-Stack Developer passionate about building scalable SaaS platforms and contributing to open-source ecosystems. Actively maintain templates at Dokploy, run Algogist (5K+ monthly readers), and moderate r/AI_India (13K+ members).",
   EMAIL: "jainilprajapati9@gmail.com",
 };
 

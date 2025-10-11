@@ -3,12 +3,11 @@ title: "DevOps Intern"
 description: "Working on DevOps infrastructure, automation, and deployment pipelines at Aexawareinfotech Pvt. Ltd."
 company: "Aexawareinfotech Pvt. Ltd."
 location: "Vadodara"
-startDate: "September 2025"
+startDate: "September, 2025"
 endDate: "Present"
-image: {
-url: "/portrait.webp",
-alt: "DevOps Intern at Aexaware"
-}
+image:
+  url: "/aexaware-logo.png"
+  alt: "DevOps Intern at Aexaware"
 ---
 
 ## Overview

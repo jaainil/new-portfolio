@@ -5,10 +5,9 @@ company: "Algogist"
 location: "Remote"
 startDate: "2023"
 endDate: "Present"
-image: {
-url: "/portrait.webp",
-alt: "Algogist Founder"
-}
+image:
+  url: "/algogist.png"
+  alt: "Algogist Founder"
 ---
 
 ## Overview

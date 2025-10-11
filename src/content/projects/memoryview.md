@@ -4,7 +4,7 @@ description: "Remix.js, Fuse.js, TailwindCSS, TypeScript - Curated 150+ AI/ML le
 liveUrl: https://remix-llm-resoures.vercel.app/
 githubUrl: https://github.com/jaainil
 image: {
-url: "/zentrack.webp",
+url: "/memoryview.png",
 alt:  "MemoryView AI Resources Hub thumbnail"
 }
 ---

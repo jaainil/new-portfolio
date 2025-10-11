@@ -5,10 +5,9 @@ company: "r/AI_India"
 location: "Remote"
 startDate: "2023"
 endDate: "Present"
-image: {
-url: "/portrait.webp",
-alt: "r/AI_India Moderator"
-}
+image:
+  url: "/reddit-icon.png"
+  alt: "r/AI_India Moderator"
 ---
 
 ## Overview
